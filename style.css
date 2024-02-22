@@ -3,7 +3,7 @@
     --cor-fundo:#3E51B8;
     --cor-fonte:#7C2F2F;
 }
-.cabecalho{
+.cabecario{
     background-color: var(--cor-fundo);
     color: var(--cor-fonte);
 }
