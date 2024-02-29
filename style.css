@@ -10,4 +10,5 @@
 .imagem-cabecario{
     width: 10%;
     display: flex;
+    justify-content: space-around;
 }
