@@ -7,3 +7,6 @@
     background-color: var(--cor-fundo);
     color: var(--cor-fonte);
 }
+.imagem-cabecario{
+    width: 20%;
+}
