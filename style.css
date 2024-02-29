@@ -14,3 +14,7 @@
     width: 10%;
     
 }
+.item-lista-cabecario{
+    display: inline-block;
+    margin: 0 16px;
+}
