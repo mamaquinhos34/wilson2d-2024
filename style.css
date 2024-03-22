@@ -1,3 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
 :root{
     --cor-cabeçario:#FC5F5F;
     --cor-fundo:#3E51B8;
