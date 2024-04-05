@@ -66,3 +66,10 @@
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
 }
+.estudante-titulo{
+    text-align: center;
+    padding: 25px 0;
+}
+.estudante{
+    background-color: 505B9A;
+} 
