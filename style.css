@@ -4,7 +4,7 @@
 }
 :root {
     --cor-cabeçario: #FC5F5F;
-    --cor-fundo: #3E51B8;
+    --cor-fundo: #384594;
     --cor-fonte: #7C2F2F;
 }
 
@@ -71,5 +71,5 @@
     padding: 25px 0;
 }
 .estudante{
-    background-color: #3E51B8;
+    background-color: #384594;
 } 
