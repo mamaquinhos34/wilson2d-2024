@@ -35,3 +35,25 @@
     color: var(--cor-fontes);
     display: flex;
 }
+.escola.div.conteudo{
+    width: 35%;
+}
+.escola-titulo{
+    padding: 24px 0;
+
+}
+.estudante-imagem{
+    width: 200px;
+}
+,estudante-icone{
+    width: 24px;
+
+}
+.estuante-div{
+    text-align: center;
+    padding: 2%;
+}
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
